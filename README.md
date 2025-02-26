@@ -11,7 +11,9 @@ A collection of C programs for learning and practicing the fundamentals of C. Th
 6. **C program to print the fibonacci sequence.** [[↗]](programs/fibonacci.c)
 7. **C Program to check if a number is prime or not.** [[↗]](programs/prime.c)
 8. **C program to calculate sum of the following series:** 
-   - s = 1 + 3 + 5 + ... + n [[↗]](programs/sum_series1.c)  
-   - s = 2 + 4 + 6 + ... + n [[↗]](programs/sum_series2.c)  
+   - s = 1 + 3 + 5 + ... + n [[↗]](programs/sum_series1.c)
+   - s = 2 + 4 + 6 + ... + n [[↗]](programs/sum_series2.c)
    - s = 1 + 1/2 + 1/3 + ... + 1/n [[↗]](programs/sum_series3.c)  
-   - s = 1 + 1/3 + 1/5 + ... + 1/n [[↗]](programs/sum_series4.c)  
+   - s = 1 + 1/3 + 1/5 + ... + 1/n [[↗]](programs/sum_series4.c)
+9. **C program to find the biggest number among 3 numbers.** [[↗]](programs/biggestnumber.c)
+10. **C program to generate first 10 positive integers that are divisible by 3/5/11.** [[↗]](programs/generate10integers.c)
